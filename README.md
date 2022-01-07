@@ -1,5 +1,5 @@
 # <Hello world!> 👋
-![](https://github.com/kadirovgm/kadirovgm/blob/main/KnobbyJoyfulDeermouse-size_restricted.gif)
+![](https://c.tenor.com/DBfoVFe1VggAAAAd/eating-dessert-minions.gif)
 
 ## Welcome to my repository!
 
